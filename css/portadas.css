@@ -1,0 +1,26 @@
+.consoles {
+    background-image: url("../img/hardware-home.webp");
+    margin-top: 72px;
+}
+
+.games {
+    background-image: url("../img/games.jpg");
+    margin-top: 55px;
+}
+
+.cbk {
+    background-image: url("../img/cpk-3.jpg");
+    margin-top: 55px;
+}
+
+.tlou {
+    background-image: url("../img/lu22-2.jpg");
+    margin-top: 55px;
+}
+
+.img-centrar {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
