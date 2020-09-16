@@ -24,6 +24,11 @@
     margin-top: 55px;
 }
 
+.contacto {
+    background-image: url("../img/contacto.jpg");
+    margin-top: 55px;
+}
+
 .img-centrar {
     width: 50%;
     display: block;

@@ -52,18 +52,11 @@ nav.navbar {
     color: brown;
 }
 
-.publicidad {
-    color: brown;
-    background: white;
-}
 
 .ps5 {
     color: black;
 }
 
-.xbox {
-    color: black;
-}
 
 footer {
     text-align: center;
@@ -76,4 +69,8 @@ table {
 
 .table {
     color: white;
+}
+
+label {
+    color: brown;
 }
